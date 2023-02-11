@@ -1,0 +1,5 @@
+com\dante\osciloscopioweb\controllers\LecturaControlador.class
+com\dante\osciloscopioweb\OsciloscopiowebApplication.class
+com\dante\osciloscopioweb\repositories\LecturaRepo.class
+com\dante\osciloscopioweb\services\LecturaServicio.class
+com\dante\osciloscopioweb\models\Lectura.class
